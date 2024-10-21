@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **myself 🙃**
 
-- 🌱 I’m currently learning **.NET Technologies**
-
 - 💬 Ask me about **software development**
 
 - 📫 How to reach me **muhammedmazin38@gmail.com**
